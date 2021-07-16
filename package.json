@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "todomvc-app-css": "^2.0.1",
+    "todomvc-common": "^1.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "jasmine-core": "^2.0.0"
+  }
+}
